@@ -2,4 +2,4 @@
 
 output looks as follows:
 
-![alt text](suduko.png)
+![Screenshot](suduko.png)
