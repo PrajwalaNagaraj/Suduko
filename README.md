@@ -2,4 +2,4 @@
 
 output looks as follows:
 
-![Screenshot](suduko.png)
+![Screenshot](suduko.PNG)
