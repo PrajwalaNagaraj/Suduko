@@ -2,4 +2,4 @@
 
 output looks as follows:
 
-![](suduko.png)
+![alt text](suduko.png)
